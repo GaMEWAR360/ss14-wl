@@ -27,7 +27,7 @@
     baseWalkSpeed: 0
     baseSprintSpeed: 0
   - type: Physics
-    bodyType: KinematicController
+    bodyType: Static
 # WL-Changes-end
   - type: ContainerContainer
   - type: Gun
