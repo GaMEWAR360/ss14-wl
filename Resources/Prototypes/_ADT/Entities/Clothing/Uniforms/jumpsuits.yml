@@ -52,7 +52,7 @@
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitTurtleneckYellow
   name: yellow turtleneck
-  description: Filled with happines.
+  description: Filled with happiness.
   components:
   - type: Sprite
     sprite: _ADT/Clothing/Uniforms/Jumpsuit/turtleneck_yellow.rsi
@@ -181,7 +181,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitTurtleneckWhiteBlackSleeveless
-  name: ancient jumpsuit
+  name: black white ancient jumpsuit
   description: A terribly ragged and frayed grey jumpsuit. It looks like it hasn't been washed in over a decade.
   components:
   - type: Sprite
@@ -194,7 +194,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitTurtleneckWhiteSleeveless
-  name: ancient jumpsuit
+  name: white ancient jumpsuit
   description: A terribly ragged and frayed grey jumpsuit. It looks like it hasn't been washed in over a decade.
   components:
   - type: Sprite
@@ -207,7 +207,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitTurtleneckBlackSleeveless
-  name: ancient jumpsuit
+  name: black ancient jumpsuit
   description: A terribly ragged and frayed grey jumpsuit. It looks like it hasn't been washed in over a decade.
   components:
   - type: Sprite
